@@ -146,6 +146,9 @@
 }
 
 @media screen and (max-width: 400px) {
+    body {
+    padding-bottom: 17em;
+  }
   .to-do-form {
     margin: 0;
     display: flex;
